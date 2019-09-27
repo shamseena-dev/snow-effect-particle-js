@@ -1,0 +1,13 @@
+body{
+	background-color: blue;
+	background-image: url("snowman.jpg");
+	background-repeat: no-repeat;
+	height:100vh;
+}
+
+.particles-js{
+	height:100vh;
+	border:2px solid red;
+	
+
+}
